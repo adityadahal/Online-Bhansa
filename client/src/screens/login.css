@@ -1,0 +1,12 @@
+.padding-form{
+    padding: 40px 40px;
+}
+.login{
+    display: flex;
+}
+
+.login-background{
+    display: flex;
+    flex: 2;
+    height: 85vh;
+}
