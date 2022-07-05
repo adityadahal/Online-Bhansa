@@ -21,7 +21,7 @@ const OrderList = () => {
           <tr>
             <th>Order Name</th>
             <th>Email</th>
-            <th>Order ID</th>
+            <th>Order-ID</th>
             <th>Amount</th>
             <th>Date</th>
             <th>Status</th>
